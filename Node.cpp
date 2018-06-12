@@ -12,6 +12,7 @@
  */
 
 #include <cstdlib>
+#include <cstdint>
 #include <string>
 #include <iostream>
 #include <vector>
